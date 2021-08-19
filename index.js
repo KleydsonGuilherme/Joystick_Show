@@ -27,7 +27,3 @@ function linkedin(){
 function mail(){
     window.alert('Kleydsong@gmail.com');
 }
-
-function maila(){
-    window.alert('Kleydsong@gmail.com');
-}
