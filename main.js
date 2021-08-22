@@ -27,3 +27,7 @@ function linkedin(){
 function mail(){
     window.alert('Kleydsong@gmail.com');
 }
+
+function preOrder(){
+    window.alert('ESGOTADO!');
+}
